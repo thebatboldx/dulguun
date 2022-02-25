@@ -1,4 +1,4 @@
-# Blog and Portfolio Site.
+<!-- # Blog and Portfolio Site.
 * Live: https://blog-portfolio.herokuapp.com/
 * Developed By Django Web Framework.
 
@@ -33,7 +33,7 @@
 * PATHs:
   1. System Admin Dashboard: http://127.0.0.1:8000/admin/ (default)
   2. Homepage: http://127.0.0.1:8000/
-  3. Portfolios: https://blog-portfolio.herokuapp.com/portfolio/siyam/ 
+  3. Portfolios: https://blog-portfolio.herokuapp.com/portfolio/siyam/  -->
 
 ## Homepage
 ![FireShot Capture 068 - DevsCave - blog-portfolio herokuapp com](https://user-images.githubusercontent.com/23103980/56381575-19f94280-6237-11e9-95ff-fc8d45b7cc83.png)
